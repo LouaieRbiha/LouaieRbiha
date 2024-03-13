@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LouaieRbiha
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning React
+- 👀 I’m interested in system designs
 - 💞️ I’m looking to collaborate on bigger projects & to learn new things everyday !
 - 📫 How to reach me {email : "louaierbiha@gmail.com"}
 
